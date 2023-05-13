@@ -27,12 +27,12 @@ header {
     background-color: #2A9D8F;
 }
 nav a:hover {
-    color: #F4A261;
+    color: #E9C46A;
     background-color: #2A9D8F;
 }
 .book, .join {
     text-decoration: none;
-    color: #F4A261;
+    color: #264653;
     background-color: #2A9D8F;
 }
 .book:hover, .join:hover {
@@ -50,10 +50,10 @@ footer {
     background-color: #2A9D8F;
 }
 .home-title {
-    color: #F4A261;
+    color: #264653;
 }
 h4 {
-    color: #F4A261;
+    color: #264653;
 }
 .msg h2 {
     color: #264653;
