@@ -4,6 +4,7 @@
     text-align: center;
 }
 nav a {
+    text-decoration: none;
     color: #264653;
     text-align: center;
 }
@@ -30,6 +31,7 @@ nav a:hover {
     background-color: #2A9D8F;
 }
 .book, .join {
+    text-decoration: none;
     color: #264653;
     background-color: #2A9D8F;
 }
@@ -60,8 +62,24 @@ h4 {
     color: #264653;
 }
 footer a {
+    text-decoration: none;
     color: #264653;
 }
 footer a:hover {
     color: #264653;
+}
+.logo {
+    width: 80px;
+}
+.icon {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;
+}
+footer p {
+    font-size: 1.5em;
+}
+footer p a:hover {
+    text-decoration: underline;
 }
